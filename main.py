@@ -9,3 +9,5 @@ fecha = "06/10/2026"
 print(nombre)
 print(modulo)
 print(fecha)
+
+saludo = f"Hola, {nombre}. Bienvenido al módulo de {modulo}."
